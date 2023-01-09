@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1032439023044",
+    "firebase_url": "https://xhuna-cd60f-default-rtdb.firebaseio.com",
+    "project_id": "xhuna-cd60f",
+    "storage_bucket": "xhuna-cd60f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032439023044:android:06bfd282b586dc3af09091",
+        "android_client_info": {
+          "package_name": "com.example.muestrario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032439023044-aajlpk4j1tvdqrsq53mbnbv3782m68v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnllN-r0fs4WNzsGUIQHRmiBYPiffvYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032439023044-aajlpk4j1tvdqrsq53mbnbv3782m68v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032439023044:android:a2671f3db6ff24dff09091",
+        "android_client_info": {
+          "package_name": "com.example.scanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032439023044-aajlpk4j1tvdqrsq53mbnbv3782m68v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnllN-r0fs4WNzsGUIQHRmiBYPiffvYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032439023044-aajlpk4j1tvdqrsq53mbnbv3782m68v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

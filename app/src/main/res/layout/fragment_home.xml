@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+
+    <TextView
+        android:id="@+id/About"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="86dp"
+        android:layout_marginStart="31dp"
+        android:text="@string/Title_about"
+        android:fontFamily="@font/pangram_bold"
+        android:gravity="center_horizontal|center_vertical"
+        android:textSize="35sp"
+        android:textColor="@color/text"
+        />
+
+    <TextView
+        android:id="@+id/About_text"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="132dp"
+        android:text="@string/About_text"
+        android:fontFamily="@font/pangram_medium"
+        android:textSize="21sp"
+        android:textColor="@color/text"
+        />
+
+    <ImageView
+        android:layout_marginTop="300dp"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:src="@drawable/chunavaca"/>
+
+    <TextView
+        android:id="@+id/credits_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="608dp"
+        android:text="@string/Credits"
+        android:fontFamily="@font/pangram_medium"
+        android:textSize="12sp"
+        android:textColor="@color/text"
+        android:textAlignment="center"
+        />
+
+
+</FrameLayout>

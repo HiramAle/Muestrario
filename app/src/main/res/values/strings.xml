@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Muestrario</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Main_title">muestrario</string>
+    <string name="Title_about">Acerca de</string>
+    <string name="Title_scan">Escanear</string>
+    <string name="Title_ingredients">Ingredientes</string>
+    <string name="About_text">Este trabajo es muestra de
+algunos de los ingredientes
+utilizados para la alimentación
+de diferentes especies
+ganaderas enlistando sus
+beneficios nutricionales.</string>
+    <string name="Credits">Elaborado por: Xhunaxhi Santiago Garibay</string>
+    <string name="Scan_instructions">Presiona el botón para
+escanear</string>
+</resources>
